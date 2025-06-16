@@ -47,3 +47,30 @@ This project uses the following dependencies:
 - **Tailwind CSS**: For styling (included via CDN)
 - **Font Awesome**: For icons (included via CDN)
 - **Google Fonts**: Poppins font for better typography (included via CDN)
+
+### Libraries/Dependencies Included in HTML:
+
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/specimen/Poppins)
+
+## Project Structure
+
+The project structure is as follows:
+
+```
+/gohotel
+├── index.html               # Home page
+├── about.html               # About page
+├── gallery.html             # Gallery page
+├── main_feature.html        # Room features page
+├── contact.html             # Contact page
+└── css/
+    └── style.css            # Custom styles (if any)
+└── js/
+    └── main.js              # Custom JavaScript (if any)
+```
+
+## Conclusion
+
+GoHotel is designed to create a luxurious experience for users looking to book their ideal accommodations. With intuitive navigation and an engaging layout, users can easily find what they need. Feel free to explore the project and make any improvements or customizations as needed!
